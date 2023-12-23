@@ -1,0 +1,31 @@
+.container .new-task {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.container .new-task input,
+.container .new-task textarea {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #444;
+    border: none;
+    border-radius: 2px;
+    font-weight: 600;
+}
+
+.container .new-task input::placeholder,
+.container .new-task textarea::placeholder {
+    color: #222;
+}
+
+.container .new-task input:focus,
+.container .new-task textarea:focus {
+    outline: 0;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}

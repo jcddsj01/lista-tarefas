@@ -1,0 +1,44 @@
+.container ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    list-style: none;
+    margin: 20px 0 10px;
+    border-radius: 2px;
+}
+
+.container ul li {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #444;
+    margin-bottom: 15px;
+}
+
+.container .task {
+    color: #222;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+    text-decoration: none;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.container .task .icon-arrow-right {
+    color: chartreuse;
+    margin-right: 8px;
+}
+
+button .icon-fa-trash-alt {
+    background-color: transparent;
+    border: 0;
+    font-size: 20px;
+    color: chartreuse;
+    cursor: pointer;
+    transition: transform 0.5s ease;
+}
+
+.icon-fa-trash-alt:hover {
+    transform: rotate(15deg);
+}
