@@ -21,7 +21,7 @@ Tecnologias Utilizadas:
 Créditos:
 * Criado com base do Canal no YouTube | [Felipe Rocha • dicasparadevs](https://www.youtube.com/@dicasparadevs)
 
-Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://lista-tarefas-jcddsj01.vercel.app/)
+Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://lista-tarefas-swart.vercel.app/)
 
 ---
 
@@ -40,4 +40,4 @@ Technologies used:
 Credits:
 * Created on the basis of the YouTube Channel | [Felipe Rocha • dicasparadevs](https://www.youtube.com/@dicasparadevs)
 
-Project deployment on Vercel: [Explore the project by clicking here.](https://lista-tarefas-jcddsj01.vercel.app/)
+Project deployment on Vercel: [Explore the project by clicking here.](https://lista-tarefas-swart.vercel.app/)
